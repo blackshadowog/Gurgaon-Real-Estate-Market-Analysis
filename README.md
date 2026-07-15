@@ -168,7 +168,7 @@ Some important insights obtained from the analysis include:
 This scatter plot illustrates the relationship between the property area and its selling price. Larger properties generally tend to have higher prices, although several premium properties appear as outliers.
 
 <p align="center">
-  <img src="images/area_vs_price.png" alt="Area vs Price" width="800"/>
+  <img src="Gurgaon Real Estate Market Analysis/images/area_vs_price.png" alt="Area vs Price" width="800"/>
 </p>
 
 ---
@@ -178,7 +178,7 @@ This scatter plot illustrates the relationship between the property area and its
 This visualization explores whether larger properties are always more expensive on a per-square-foot basis. The plot reveals that price per square foot varies significantly across properties and is influenced by factors beyond area alone.
 
 <p align="center">
-  <img src="images/area_vs_rate_per_sqft.png" alt="Area vs Rate per Sqft" width="800"/>
+  <img src="Gurgaon Real Estate Market Analysis/images/area_vs_rate_per_sqft.png" alt="Area vs Rate per Sqft" width="800"/>
 </p>
 
 ---
